@@ -52,7 +52,8 @@ nav{
     display: flex;
     gap: 100px;
     align-items: center;
-    justify-content: center; 
+    justify-content: center;
+    position: fixed;
 }
 
 nav > a{
@@ -472,4 +473,5 @@ a > img{
     .tags > a {
       font-size: small;
     }
+
   }
