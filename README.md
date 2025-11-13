@@ -1,7 +1,6 @@
 Este repositório contém uma landing page dedicada à artista Rihanna, apresentando informações sobre sua carreira, discografia, prêmios e curiosidades. É um pequeno projeto feito com o intuito de aplicar os aprendizados básicos sobre HTML e CSS.
 
 URL do site: 
-
 https://giovannarodrigues1.github.io/landing-page/
 
 Link para prótotipo do Figma:
